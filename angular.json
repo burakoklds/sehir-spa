@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "sehir-spa"
+    }
+  },
+  "defaultProject": "sehir-spa",
+  "cli": {
+    "analytics": "82d86642-97b4-4ff8-b1a5-867094b7b1d2"
+  }
 }
